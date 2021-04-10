@@ -35,3 +35,4 @@ If you want to retrieve the seed from a pre-existing Pi/PE world, use a MCPE-com
 | Overhangs / Floating Islands | 3396408    | Few overhangs with steep hills nearby         |
 | Overhangs / Floating Islands | -1965077007| Many overhangs with lake beneath              |
 | Overhangs / Floating Islands | 1616133250 | Huge floating island nearby                   |
+The seeds in a the json file are in the same pattern.
