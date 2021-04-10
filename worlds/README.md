@@ -14,7 +14,7 @@ Here, you can find a description and link to all our worlds!
 | [Hogwarts](Hogwarts.mcpiw)                         | *Hogwarts*                                                               |
 | [NRC History](NRC_History/)                        | World showcasing the history of the Nether Spire and Nether Reactor Core |
 | [Quest of the Assassin](QuestOfTheAssassin.mcpiw)  | *Quest of the Assassin*                                                  |
-| [ScaraBrae](ScaraBrae/)                            | An abandoned village on the Orkney Islands at the north of England       |
+| [SkaraBrae](ScaraBrae/)                            | An abandoned village on the Orkney Islands at the north of England       |
 | [Skyblock](Skyblock.mcpiw)                         | *Skyblock*                                                               |
 | [Spaceship](Spaceship.mcpiw)                       | Spaceship, Who-oo!                                                        |
 | [Void World](VoidWorld/)                           | There is nothing                                                         |
